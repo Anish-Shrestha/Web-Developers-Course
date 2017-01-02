@@ -1,8 +1,7 @@
-## Welcome to Course: HTML, CSS, and Javascript for Web Developers 
+## Welcome
 
 [editor on GitHub](https://github.com/Anish-Shrestha/coursera-test/edit/master/README.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
