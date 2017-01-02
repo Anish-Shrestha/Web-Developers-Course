@@ -5,7 +5,7 @@
 
 ### Module1 : Week1
 
-Module1 concerns with SetUp, HTML5 syntax and Validation using W3C
+Module1 concerns with Environment SetUp, HTML5 syntax and Validation using W3C
 
 ```markdown
 
@@ -22,15 +22,20 @@ Installation
 
 ```
 
+
 ### Module2 : Week2
 
 Module2 
 
 ```markdown
-
-
+# CSS3
+# CSS Rules Conflict Resolution and Text Styling
+# The Box Model and Layout
+# Responsive Design
+# Twitter Bootstrap
 
 ```
+
 
 ### Module3 : Week3
 
@@ -38,20 +43,37 @@ Module3
 
 ```markdown
 
-
+# Visit with the Client & Setup Overview
+# Coding the Navigation Bar of the Site
+# Coding the Homepage and the Footer
+# Coding the Restaurant Menu Pages
 
 ```
+
 
 ### Module4 : Week4
 
 Module4 
 
 ```markdown
-
-
+# Javascript
+# Javascript Types and Common Language Constructs
+# Objects and Functions in Javascript
+# Arrays, Closures, and Namespaces
 
 ```
 
+
+### Module5 : Week5
+
+Module5 
+
+```markdown
+# Document Object Model Manipulation
+# Ajax
+# Ajax to Connect Restaurant Site with Real Data
+
+```
 
 
 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
