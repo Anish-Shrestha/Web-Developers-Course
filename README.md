@@ -9,16 +9,15 @@ Module1 concerns with Environment SetUp, HTML5 syntax and Validation using W3C
 
 ```markdown
 
-Installation
-
 # Git
-## git --Version
 # Sublime Text 3
 # Node
+# browser-sync
+
+## git --Version
 ## node --Version
 ## npm install -g browser-sync
-# browser-sync
-### browser-sync start --server --directory --files "*"
+## browser-sync start --server --directory --files "*"
 
 ```
 
