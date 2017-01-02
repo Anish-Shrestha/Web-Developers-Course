@@ -3,26 +3,21 @@
 [editor on GitHub](https://github.com/Anish-Shrestha/coursera-test/edit/master/README.md)
 
 
-### Markdown
+### Module1 : Week1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Module1 concerns with SetUp and HTML5 syntax and Validation using W3C
 ```markdown
-Syntax highlighted code block
+Installation
 
-# Header 3
-## Header 2
-### Header 1
+# Git
+## git --Version
+# Sublime Text 3
+# Node
+## node --Version
+## npm install -g browser-sync
+# browser-sync
+### browser-sync start --server --directory --files "*"
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
